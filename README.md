@@ -6,9 +6,6 @@ diff 배우기
 > 안녕
 - 이름
 - 전화번호
-<<<<<<< HEAD
 - 성별
-=======
-- 기능
-- 만세
->>>>>>> refs/remotes/origin/main
+
+
